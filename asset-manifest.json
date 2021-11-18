@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VaishnaviKadukar/Movie-app.git/static/css/main.356a5983.chunk.css",
+    "main.js": "/VaishnaviKadukar/Movie-app.git/static/js/main.2fda9fbc.chunk.js",
+    "main.js.map": "/VaishnaviKadukar/Movie-app.git/static/js/main.2fda9fbc.chunk.js.map",
+    "runtime-main.js": "/VaishnaviKadukar/Movie-app.git/static/js/runtime-main.04439092.js",
+    "runtime-main.js.map": "/VaishnaviKadukar/Movie-app.git/static/js/runtime-main.04439092.js.map",
+    "static/css/2.992259f6.chunk.css": "/VaishnaviKadukar/Movie-app.git/static/css/2.992259f6.chunk.css",
+    "static/js/2.2d21e310.chunk.js": "/VaishnaviKadukar/Movie-app.git/static/js/2.2d21e310.chunk.js",
+    "static/js/2.2d21e310.chunk.js.map": "/VaishnaviKadukar/Movie-app.git/static/js/2.2d21e310.chunk.js.map",
+    "index.html": "/VaishnaviKadukar/Movie-app.git/index.html",
+    "static/css/2.992259f6.chunk.css.map": "/VaishnaviKadukar/Movie-app.git/static/css/2.992259f6.chunk.css.map",
+    "static/css/main.356a5983.chunk.css.map": "/VaishnaviKadukar/Movie-app.git/static/css/main.356a5983.chunk.css.map",
+    "static/js/2.2d21e310.chunk.js.LICENSE.txt": "/VaishnaviKadukar/Movie-app.git/static/js/2.2d21e310.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/VaishnaviKadukar/Movie-app.git/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04439092.js",
+    "static/css/2.992259f6.chunk.css",
+    "static/js/2.2d21e310.chunk.js",
+    "static/css/main.356a5983.chunk.css",
+    "static/js/main.2fda9fbc.chunk.js"
+  ]
+}
